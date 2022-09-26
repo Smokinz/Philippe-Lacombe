@@ -1,0 +1,1 @@
+print("Morituri Te Salutant")
