@@ -1,1 +1,0 @@
-print("Morituri Te Salutant")
